@@ -1,4 +1,5 @@
-# wsl2インストール （公式サイト）https://learn.microsoft.com/ja-jp/windows/wsl/install
+# wsl2インストール 
+# （公式サイト）https://learn.microsoft.com/ja-jp/windows/wsl/install
 wsl -- install
 
 # Ubuntuインストール　Microsoft Store から入手
